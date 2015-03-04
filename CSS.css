@@ -1,0 +1,31 @@
+<style>
+
+h2 {border: 2px solid #e2d7ac;
+background-color: #ffffff;
+padding-left: 5px;
+padding-bottom: 10px;
+padding-top: 10px;}
+
+h3 {border: 1px solid #E2D7AC;
+background-color:#ffffff;
+padding-left: 5px;
+padding-bottom: 10px;
+padding-top: 10px;}
+
+.leftcolumn ul {list-style-type: none;}
+.leftcolumn a {text-decoration: none;}
+
+#wrapper {background-color:None;}
+#leftcolumn {background-color:CCCCCC;
+    float:left;
+	width: 300px;}
+#rightcolumn {margin-left: 300px;}
+#content { background-color: FFFFFF; 
+            float: right; }
+#footer {float: right;}
+
+a:hover { color: red;}
+
+tr:nth-of-type(odd) { color:red;}
+
+</style>
